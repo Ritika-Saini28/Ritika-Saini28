@@ -1,7 +1,6 @@
 ![logo](https://github.com/Ritika-Saini28/Ritika-Saini28/blob/main/Blue%20Black%20Modern%20Computer%20Science%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Ritika Saini</h1>
 <h3 align="center">I am a passionate and versatile Developer and Data Analyst with a knack for solving complex problems and turning data into actionable insights. With a strong foundation in both software development and data analytics, I bring a unique blend of technical expertise and analytical thinking to every project I work on.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Ritika-Saini28/Ritika-Saini28/blob/main/8-Lnm34SCCoVLSU1V%20(1).png>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-saini28&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-saini28" /> </p>
 
 - 🎓 Data Science student in Noida Institute Of Engineering and Technology

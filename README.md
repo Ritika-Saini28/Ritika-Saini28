@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/ritika saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika saini" height="30" width="40" /></a>
 <a href="https://instagram.com/rits_saini2823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rits_saini2823" height="30" width="40" /></a>
 </p>
+<img align="right" alt="coding" width="400" src="8-Lnm34SCCoVLSU1V (1).png>
 
 ## My Tech Stack💻
 

@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritika Saini</h1>
 <h3 align="center">I am a passionate and versatile Developer and Data Analyst with a knack for solving complex problems and turning data into actionable insights. With a strong foundation in both software development and data analytics, I bring a unique blend of technical expertise and analytical thinking to every project I work on.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-saini28&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-saini28" /> </p>
+<img align="right" alt="coding" width="200" src="image_processing20210301-3601-w1fbuc.gif">
 
 - 🎓 Data Science student in Noida Institute Of Engineering and Technology
 - 📫 How to reach me **ritisaini1976@gmail.com**
@@ -13,7 +14,7 @@
 <a href="https://linkedin.com/in/ritika saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika saini" height="30" width="40" /></a>
 <a href="https://instagram.com/rits_saini2823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rits_saini2823" height="30" width="40" /></a>
 </p>
-<img align="right" alt="coding" width="400" src="8-Lnm34SCCoVLSU1V (1).png>
+
 
 ## My Tech Stack💻
 
